@@ -1,8 +1,8 @@
-<h1 align="center" style="color:#FFFFFF;">
+<h1 align="center" style="color:#000000;">
   Hello, I'm metriiics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" height="30" />
 </h1>
 
-<p align="center" style="color:#FFFFFF;">
+<p align="center" style="color:#000000;">
   Frontend & Fullstack Developer | JavaScript | TypeScript | React | Node.js
 </p>
 

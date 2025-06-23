@@ -22,15 +22,15 @@
 
 ## 🖥️ &nbsp;Featured Projects
 
-<p align="center">
-  <a href="https://github.com/metriiics/project-1">
+<p align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: nowrap;">
+  <a href="https://github.com/metriiics/project-1" style="flex-shrink: 0;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=project-1&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Project 1" />
   </a>
-  &nbsp;
-  <a href="https://github.com/metriiics/project-2">
+  <a href="https://github.com/metriiics/project-2" style="flex-shrink: 0;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=project-2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Project 2" />
   </a>
 </p>
+
 
 ---
 

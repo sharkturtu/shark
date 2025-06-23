@@ -22,15 +22,15 @@
 
 <h2 align="left" style="color:#8B4513;">🖥 &nbsp;Top Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=0d1116&title_color=1e3a8a&text_color=1e3a8a&icon_color=1e3a8a)](https://github.com/metriiics/CRMProzdorovie) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=DatingProject&bg_color=0d1116&title_color=1e3a8a&text_color=1e3a8a&icon_color=1e3a8a)](https://github.com/metriiics/DatingProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=8B4513&text_color=8B4513&icon_color=8B4513)](https://github.com/metriiics/CRMProzdorovie) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=DatingProject&bg_color=FFFFFF&title_color=8B4513&text_color=8B4513&icon_color=8B4513)](https://github.com/metriiics/DatingProject)
 
 ---
 
 <h2 align="left" style="color:#8B4513;">📊 &nbsp;GitHub Stats</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=0d1116&title_color=1e3a8a&text_color=1e3a8a&icon_color=000000" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=0d1116&title_color=1e3a8a&text_color=1e3a8a&icon_color=000000&langs_count=6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=f5f0e6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=FFFFFF&title_color=8B4513&text_color=8B4513&icon_color=8B4513" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=FFFFFF&title_color=8B4513&text_color=8B4513&icon_color=8B4513&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=FFFFFF" />
 </p>
